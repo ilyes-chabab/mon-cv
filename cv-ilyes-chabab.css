@@ -1,0 +1,14 @@
+.right{position: relative;
+    left:400px 
+;}
+body{background-color: rgb(104, 104, 150);
+    margin: 0}
+div{background-color: darkgray;
+;}
+a{color: orangered;}
+.taille{
+    width: 2%;
+    height: 2%;
+}
+
+
